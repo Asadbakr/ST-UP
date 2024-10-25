@@ -1,0 +1,45 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "QTBengal";
+  background: url(hhhdr.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* ! body --------------------------------------------- */
+h1 {
+  text-align: center;
+  color: #fadde1;
+  margin: 15px;
+}
+hr {
+  border-color: #f08080;
+  border-width: 3px;
+  max-width: 65px;
+}
+/* * header -------------------------------------------- */
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn-primary {
+  background-color: #b9375e;
+  border-color: #8a2846;
+  border-width: 5px;
+}
+.btn-primary:hover {
+  background-color: #8a2846;
+  border: solid #602437;
+  border-width: 5px;
+}
+.btn-xl {
+  padding: 1rem 2rem;
+}
+/* * buttons--------------------------------------------s */
+.buffer {
+  height: 7em;
+}
