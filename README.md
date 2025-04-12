@@ -1,1 +1,1 @@
-# ST-UP
+# Sample website
